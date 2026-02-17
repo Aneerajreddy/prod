@@ -1,6 +1,6 @@
 # NEET PG ENT PYQ Quiz
 
-A static quiz app built from the provided PrepLadder ENT PYQ page.
+A static 40-question ENT quiz app built from the provided PrepLadder ENT PYQ page, with image-based questions and detailed answer review.
 
 ## Run locally
 
@@ -19,7 +19,7 @@ This repository includes an auto-deploy workflow at `.github/workflows/deploy-pa
 1. Push this repository to GitHub.
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-4. Ensure your default branch is `main` (or update the workflow trigger branch).
+4. Ensure your default branch is `main` (or `work`), or update the workflow trigger branch.
 
 ### Deploy flow
 
