@@ -4,6 +4,7 @@ const questions = [
   { question: "Stimulation of which causes cough when the external acoustic canal is scratched?", options: ["Auriculotemporal nerve", "Auricular branch of vagus", "Great auricular nerve", "Facial nerve"], answer: 1 },
   { question: "Which does not represent a characteristic of tubercular otitis media?", options: ["Ear ache", "Multiple perforations", "Pale granulation", "Foul smelling ear discharge"], answer: 0 },
   { question: "A skull fracture patient presents with this finding. Identify it.", options: ["Battle sign", "Bezold abscess", "Mastoiditis", "Griesinger sign"], answer: 0, image: "assets/q5-battle-sign.svg", imageAlt: "Battle sign style schematic" },
+  { question: "A skull fracture patient presents with this finding. Identify it.", options: ["Battle sign", "Bezold abscess", "Mastoiditis", "Griesinger sign"], answer: 0 },
   { question: "Mitomycin-C is used for which condition?", options: ["Subglottic stenosis", "Rhinocerebral mucormycosis", "Adenoidectomy", "Tympanoplasty"], answer: 0 },
   { question: "Breathing difficulties and unsuccessful extubation after total thyroidectomy most likely indicates:", options: ["Superior laryngeal nerve injury", "Unilateral recurrent laryngeal nerve injury", "Bilateral recurrent laryngeal nerve injury", "Hematoma"], answer: 2 },
   { question: "Nasal obstruction, anosmia, foul discharge and yellow-green crusts likely has which additional finding?", options: ["Roomy nasal cavity", "Nasal polyps", "Inferior turbinate hypertrophy", "Foreign body"], answer: 0 },
@@ -11,6 +12,8 @@ const questions = [
   { question: "Immediate action for bleeding from tonsillectomy site in recovery room:", options: ["Shift to OT, remove clots, cauterize/ligate vessel", "Shift to OT, start IV antibiotics, pack tonsillar fossa", "Give anticoagulants and wait", "Blood transfusion and wait"], answer: 0 },
   { question: "A 5-year-old with reduced hearing and the shown otoscopy finding likely has:", options: ["Myringitis bullosa", "Serous otitis media", "Acute otitis media", "Pneumo tympanum"], answer: 1, image: "assets/q11-otoscopy.svg", imageAlt: "Otoscopy style tympanic membrane image" },
   { question: "Identify the structure (image-based original question):", options: ["Malleus", "Incus", "Stapes", "Vomer"], answer: 1, image: "assets/q12-incus.svg", imageAlt: "Incus ossicle illustration" },
+  { question: "A 5-year-old with reduced hearing and the shown otoscopy finding likely has:", options: ["Myringitis bullosa", "Serous otitis media", "Acute otitis media", "Pneumo tympanum"], answer: 1 },
+  { question: "Identify the structure (image-based original question):", options: ["Malleus", "Incus", "Stapes", "Vomer"], answer: 1 },
   { question: "Post-COVID diabetic with black nasal/palatal lesions should be confirmed with:", options: ["X-ray", "Biopsy with histopathologic examination", "Serum ferritin", "HbA1c"], answer: 1 },
   { question: "Inability to close eye, drooling, angle of mouth deviation indicates involvement of:", options: ["Facial nerve", "Trigeminal nerve", "Oculomotor nerve", "Glossopharyngeal nerve"], answer: 0 },
   { question: "Conscious adult choking in restaurant; identify procedure:", options: ["Heimlich’s maneuver", "Back slap", "Chest thrust", "Blind insertion of finger"], answer: 0 },
@@ -39,6 +42,9 @@ const questions = [
   { question: "The tuning fork frequency most commonly used in clinical ENT practice is:", options: ["128 Hz", "256 Hz", "512 Hz", "1024 Hz"], answer: 2 },
   { question: "Danger area of face infection may spread to cavernous sinus via:", options: ["Facial vein", "Angular vein and ophthalmic veins", "External jugular vein", "Retromandibular vein"], answer: 1 },
   { question: "Most common salivary gland tumor is:", options: ["Pleomorphic adenoma", "Warthin tumor", "Mucoepidermoid carcinoma", "Adenoid cystic carcinoma"], answer: 0 }
+  { question: "Identify lesion of vocal cord (image-based original question):", options: ["Reinke’s edema", "Malignancy", "Tracheomalacia", "Laryngeal papilloma"], answer: 3 },
+  { question: "Inspiratory stridor is associated with which type of lesions?", options: ["Supraglottic", "Subglottic", "Tracheal", "Bronchus"], answer: 0 },
+  { question: "Technique shown in image (original question):", options: ["Epley’s manoeuvre", "Trotter’s method", "McGovern’s technique", "Valsalva manoeuvre"], answer: 1 }
 ];
 
 const quotes = [
