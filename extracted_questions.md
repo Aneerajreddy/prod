@@ -1,3 +1,9 @@
+# Extracted + Added Questions for ENT Quiz (40 Total)
+
+Source page used for extraction (first 20):
+https://www.prepladder.com/neet-pg-study-material/previous-years-question-papers/last-5-year-pyqs-in-ent-for-neet-pg?
+
+## Extracted from source page (1-20)
 # Extracted Questions from PrepLadder ENT PYQ Page
 
 Source: https://www.prepladder.com/neet-pg-study-material/previous-years-question-papers/last-5-year-pyqs-in-ent-for-neet-pg?
@@ -22,3 +28,29 @@ Source: https://www.prepladder.com/neet-pg-study-material/previous-years-questio
 18. Identify the lesion of vocal cord in the image given below.
 19. What type of lesions are associated with inspiratory stridor?
 20. What is the technique shown in the provided image?
+
+## Added practice questions (21-40)
+21. Little’s area is located on which part of the nasal septum?
+22. Most common organism in acute otitis media is?
+23. Most common benign tumor of larynx in children is?
+24. Rinne test compares?
+25. Gold standard investigation for sinus disease is?
+26. Most common site of nasal septal deviation is?
+27. Classical triad of Meniere disease includes vertigo, tinnitus, and?
+28. Most common nerve injured during parotid surgery is?
+29. Adenoid hypertrophy commonly causes?
+30. Carhart notch is seen in?
+31. Commonest site for foreign body lodgment in esophagus is?
+32. Most common malignant tumor of nasopharynx is?
+33. In peritonsillar abscess, uvula is typically?
+34. Most common complication of chronic suppurative otitis media (unsafe type) is?
+35. The preferred initial treatment for allergic rhinitis is?
+36. Hoarseness lasting more than 3 weeks should be evaluated for?
+37. Most common cause of unilateral nasal obstruction with foul-smelling discharge in children is?
+38. The tuning fork frequency most commonly used in clinical ENT practice is?
+39. Danger area of face infection may spread to cavernous sinus via?
+40. Most common salivary gland tumor is?
+
+
+## Image-enabled questions in app
+- Q5, Q11, Q12, Q18, and Q20 now include schematic images in `assets/` for image-based practice.

@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='420' viewBox='0 0 900 420'>
+  <rect width='900' height='420' fill='#fef2f2'/>
+  <ellipse cx='450' cy='220' rx='210' ry='110' fill='#fecaca' stroke='#7f1d1d' stroke-width='4'/>
+  <ellipse cx='390' cy='220' rx='60' ry='85' fill='#fca5a5'/>
+  <ellipse cx='510' cy='220' rx='60' ry='85' fill='#fca5a5'/>
+  <circle cx='450' cy='205' r='34' fill='#dc2626'/>
+  <circle cx='445' cy='205' r='8' fill='#7f1d1d'/>
+  <text x='450' y='55' text-anchor='middle' fill='#7f1d1d' font-size='29' font-family='Arial' font-weight='700'>Vocal Cord Lesion (Papilloma-like)</text>
+  <text x='450' y='385' text-anchor='middle' fill='#7f1d1d' font-size='22' font-family='Arial'>Schematic educational depiction</text>
+</svg>

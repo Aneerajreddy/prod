@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='420' viewBox='0 0 900 420'>
+  <rect width='900' height='420' fill='#eef2ff'/>
+  <circle cx='450' cy='210' r='120' fill='#fde68a' stroke='#334155' stroke-width='3'/>
+  <rect x='350' y='280' width='200' height='70' rx='25' fill='#fdba74'/>
+  <ellipse cx='320' cy='190' rx='30' ry='55' fill='#f59e0b' stroke='#334155' stroke-width='3'/>
+  <ellipse cx='580' cy='190' rx='30' ry='55' fill='#f59e0b' stroke='#334155' stroke-width='3'/>
+  <circle cx='300' cy='220' r='22' fill='#7c2d12' opacity='0.35'/>
+  <text x='450' y='55' text-anchor='middle' fill='#1e293b' font-size='28' font-family='Arial' font-weight='700'>Battle Sign (Mastoid Ecchymosis)</text>
+  <text x='450' y='385' text-anchor='middle' fill='#334155' font-size='22' font-family='Arial'>Schematic illustration for study quiz</text>
+</svg>
