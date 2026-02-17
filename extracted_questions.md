@@ -46,3 +46,7 @@ https://www.prepladder.com/neet-pg-study-material/previous-years-question-papers
 38. The tuning fork frequency most commonly used in clinical ENT practice is?
 39. Danger area of face infection may spread to cavernous sinus via?
 40. Most common salivary gland tumor is?
+
+
+## Image-enabled questions in app
+- Q5, Q11, Q12, Q18, and Q20 now include schematic images in `assets/` for image-based practice.
