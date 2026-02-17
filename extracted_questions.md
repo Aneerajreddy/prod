@@ -3,13 +3,11 @@
 Source page used for extraction (first 20):
 https://www.prepladder.com/neet-pg-study-material/previous-years-question-papers/last-5-year-pyqs-in-ent-for-neet-pg?
 
-## Quick stats
-- Total questions in quiz: 40
-- Extracted from source page: 20
-- Added practice questions: 20
-- Image-based questions in app: 5 (Q5, Q11, Q12, Q18, Q20)
-
 ## Extracted from source page (1-20)
+# Extracted Questions from PrepLadder ENT PYQ Page
+
+Source: https://www.prepladder.com/neet-pg-study-material/previous-years-question-papers/last-5-year-pyqs-in-ent-for-neet-pg?
+
 1. From which of the following structures does the saccule develop?
 2. What is the name of the surgical procedure performed to enlarge the cartilaginous segment of the outer ear canal?
 3. Stimulation of which of the following causes cough when the external acoustic canal is scratched?

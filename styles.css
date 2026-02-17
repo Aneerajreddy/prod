@@ -79,10 +79,3 @@ button.secondary { background: #64748b; }
 .review-item.wrong { color: var(--wrong); }
 .wrong-answer { font-weight: 700; text-decoration: line-through; }
 .correct-answer { font-weight: 700; text-decoration: underline; }
-
-.image-tag {
-  margin: -4px 0 8px;
-  font-size: 0.85rem;
-  color: #1d4ed8;
-  font-weight: 700;
-}
